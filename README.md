@@ -13,7 +13,7 @@
     
 ## simple Example :
     var Policy=Policy.Handle<SqlException>().Retry();
-    Policy.Excute(currency.Insert)
+    Policy.Excute(()=>currency.Insert)
 نکته اینکه باید دقیقا Exception مورد نظر را در بخش Config به کار برد  که میتوان انواع exception  را نیز تعریف کرد مانند   
 
     Policy
@@ -32,7 +32,9 @@
         });
 
 
-منبع [App-vNext/Polly ](https://github.com/App-vNext/Polly)https://github.com/App-vNext/Polly
+منبع 
+https://github.com/App-vNext/Polly
+
 https://www.c-sharpcorner.com/article/using-retry-pattern-in-asp-net-core-via-polly/
 
 https://virgool.io/@mohsen_kasraeifar/%D9%BE%DB%8C%D8%A7%D8%AF%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C-%D8%A7%D9%84%DA%AF%D9%88%DB%8C-circuit-breaker-%D8%A8%D8%A7-ihttpclientfactory-%D9%88-polly-qohlvnk6rvze
