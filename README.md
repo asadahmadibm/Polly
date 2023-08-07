@@ -34,4 +34,10 @@
 
 منبع [App-vNext/Polly ](https://github.com/App-vNext/Polly)https://github.com/App-vNext/Polly
 https://www.c-sharpcorner.com/article/using-retry-pattern-in-asp-net-core-via-polly/
+
 https://virgool.io/@mohsen_kasraeifar/%D9%BE%DB%8C%D8%A7%D8%AF%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C-%D8%A7%D9%84%DA%AF%D9%88%DB%8C-circuit-breaker-%D8%A8%D8%A7-ihttpclientfactory-%D9%88-polly-qohlvnk6rvze
+
+https://www.dntips.ir/post/2786/%D9%BE%DB%8C%D8%A7%D8%AF%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C-%D9%85%DA%A9%D8%A7%D9%86%DB%8C%D8%B3%D9%85-%D8%B3%D8%B9%DB%8C-%D9%85%D8%AC%D8%AF%D8%AF-retry
+
+https://dotnetdocs.ir/Fa/Post/55/%D9%BE%DB%8C%D8%A7%D8%AF%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C-circuit-breaker-%D8%AF%D8%B1-asp.net-core
+
