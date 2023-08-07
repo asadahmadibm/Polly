@@ -33,3 +33,4 @@
 
 
 منبع [App-vNext/Polly ](https://github.com/App-vNext/Polly)https://github.com/App-vNext/Polly
+https://www.c-sharpcorner.com/article/using-retry-pattern-in-asp-net-core-via-polly/
